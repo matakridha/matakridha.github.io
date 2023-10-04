@@ -67,9 +67,9 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #280404;
   text-align: left;
-  background-color: #fff;
+  background-color: #cbbeed;
 }
 
 [tabindex="-1"]:focus {
@@ -162,13 +162,13 @@ sup {
 }
 
 a {
-  color: #F85C70;
+  color: #3a4092;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #f51330;
+  color: #9b9cff;
   text-decoration: none;
 }
 
@@ -10817,7 +10817,7 @@ a.text-warning:hover, a.text-warning:focus {
 }
 
 .text-danger {
-  color: #F85C70 !important;
+  color: #17263C !important;
 }
 
 a.text-danger:hover, a.text-danger:focus {
